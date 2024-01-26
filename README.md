@@ -28,8 +28,8 @@
      ```shell
      git push origin main
      ```
-4. ** push changes to remote Repository main:**     
+4. ** Push changes to remote Repository main:**     
     git push -u origin main
-    
+
 
 
