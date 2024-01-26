@@ -29,8 +29,4 @@
      git push origin main
      ```
 
-## Contributing
-
-Feel free to contribute to this project by forking it and creating a pull request. Make sure to follow the project's guidelines.
-
 
